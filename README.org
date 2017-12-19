@@ -16,7 +16,7 @@ recommend.
 - [[https://wordpress.org/][Wordpress.Org]] (Trickier to set up on your own and you need server space)
 
 *** Templates
--[[https://html5up.net/][ HTML5 Up]] (My favorite)
+- [[https://html5up.net/][HTML5 Up]] (My favorite)
 - [[https://startbootstrap.com/template-categories/all/][Start Bootstrap]]
 - [[https://freehtml5.co/][FreeHTML5.Co]]
 - [[https://templated.co/][Templated.Co]]
