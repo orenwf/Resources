@@ -8,8 +8,8 @@ request.
 If you're not familiar with making pull requests you can submit
 changes right from the awesome-cs-education repo.
 
-First, go to the awesome-cs-education repo at
-[[https://github.com/zamansky/awesome-cs-education][https://github.com/zamansky/awesome-cs-education]]. 
+First, go to the Resources guide at
+https://github.com/huntercs/Resources
 
 Next, click on the *README.org* file - that's where the list lives.
 
