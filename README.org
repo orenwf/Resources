@@ -4,25 +4,25 @@
 Someone mentioned working on a personal website over Winter break, and I thought it would be helpful to put together some free getting started resources. Please do contribute advice and resources you recommend.
 
 *** Quick Reference
-[W3Schools][https://www.w3schools.com/] (SEO friendly and easy to search from Google)
-[Chrome Dev Tools](https://developer.chrome.com/devtools)
+[[https://www.w3schools.com/][W3Schools]] (SEO friendly and easy to search from Google)
+[[https://developer.chrome.com/devtools][Chrome Dev Tools]]
 
 *** Hosting
-[GitHub Pages][https://pages.github.com/] (Check out this [tutorial by MLH](https://youtu.be/fjj0PXtqzd8))
-[Wordpress.Org][https://wordpress.org/] (Trickier to set up on your own and you need server space)
+[[http://pages.github.com][GitHub pages]] (Check out this [tutorial by MLH](https://youtu.be/fjj0PXtqzd8))
+[[https://wordpress.org/][Wordpress.Org]] (Trickier to set up on your own and you need server space)
 
 *** Templates
-[HTML5 Up][https://html5up.net/] (My favorite)
-[Start Bootstrap][https://startbootstrap.com/template-categories/all/]
-[FreeHTML5.Co][https://freehtml5.co/]
-[Templated.Co][https://templated.co/]
+[[https://html5up.net/][HTML5 Up]] (My favorite)
+[[https://startbootstrap.com/template-categories/all/][Start Bootstrap]]
+[[https://freehtml5.co/][FreeHTML5.Co]]
+[[https://templated.co/][Templated.Co]]
 
 *** High Quality Stock Photos
-[List of 21 Websites][https://blog.snappa.com/free-stock-photos/] (My favorite is Unsplash)
+[[https://blog.snappa.com/free-stock-photos/][List of 21 Websites]] (My favorite is Unsplash)
 
 *** Branding and Design
-[Canva][https://www.canva.com/]
+[[https://www.canva.com/][Canva]]
 
 *** Image Manipulation
-[PicResize][http://picresize.com/]
-[Gimp][https://www.gimp.org/]
+[[http://picresize.com/][PicResize]]
+[[https://www.gimp.org/][Gimp]]
