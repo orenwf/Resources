@@ -1,28 +1,32 @@
 * Resources
 
 ** Web (for beginners)
-Someone mentioned working on a personal website over Winter break, and I thought it would be helpful to put together some free getting started resources. Please do contribute advice and resources you recommend.
+
+Someone mentioned working on a personal website over Winter break, and
+I thought it would be helpful to put together some free getting
+started resources. Please do contribute advice and resources you
+recommend.
 
 *** Quick Reference
-[[https://www.w3schools.com/][W3Schools]] (SEO friendly and easy to search from Google)
-[[https://developer.chrome.com/devtools][Chrome Dev Tools]]
+- [[https://www.w3schools.com/][W3Schools]] (SEO friendly and easy to search from Google)
+- [[https://developer.chrome.com/devtools][Chrome Dev Tools]]
 
 *** Hosting
-[[http://pages.github.com][GitHub pages]] (Check out this [tutorial by MLH](https://youtu.be/fjj0PXtqzd8))
-[[https://wordpress.org/][Wordpress.Org]] (Trickier to set up on your own and you need server space)
+- [[http://pages.github.com][GitHub pages]] (Check out this [tutorial by MLH](https://youtu.be/fjj0PXtqzd8))
+- [[https://wordpress.org/][Wordpress.Org]] (Trickier to set up on your own and you need server space)
 
 *** Templates
-[[https://html5up.net/][HTML5 Up]] (My favorite)
-[[https://startbootstrap.com/template-categories/all/][Start Bootstrap]]
-[[https://freehtml5.co/][FreeHTML5.Co]]
-[[https://templated.co/][Templated.Co]]
+-[[https://html5up.net/][ HTML5 Up]] (My favorite)
+- [[https://startbootstrap.com/template-categories/all/][Start Bootstrap]]
+- [[https://freehtml5.co/][FreeHTML5.Co]]
+- [[https://templated.co/][Templated.Co]]
 
 *** High Quality Stock Photos
 [[https://blog.snappa.com/free-stock-photos/][List of 21 Websites]] (My favorite is Unsplash)
 
 *** Branding and Design
-[[https://www.canva.com/][Canva]]
+- [[https://www.canva.com/][Canva]]
 
 *** Image Manipulation
-[[http://picresize.com/][PicResize]]
-[[https://www.gimp.org/][Gimp]]
+- [[http://picresize.com/][PicResize]]
+- [[https://www.gimp.org/][Gimp]]
