@@ -34,3 +34,10 @@ recommend.
 *** Image Manipulation
 - [[http://picresize.com/][PicResize]]
 - [[https://www.gimp.org/][Gimp]]
+
+*** Interview Preparation
+- [[https://leetcode.com/][LeetCode]]
+- [[https://www.interviewcake.com/][Interview Cake - Paid Resource. Step-by-step solutions]]
+- [[https://www.pramp.com/][Pramp-Practice Interview with Peers, Free]]
+- [[http://www.crackingthecodinginterview.com/][Cracking the Coding Interview]]
+- [[https://vimeo.com/114005872][Cracking the Code Interview Videos, Watch Interviews]]
