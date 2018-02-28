@@ -41,3 +41,6 @@ recommend.
 - [[https://www.pramp.com/][Pramp-Practice Interview with Peers, Free]]
 - [[http://www.crackingthecodinginterview.com/][Cracking the Coding Interview]]
 - [[https://vimeo.com/114005872][Cracking the Code Interview Videos, Watch Interviews]]
+
+*** Industry Best Practices Info
+- [[https://github.com/joebew42/study-path][A study path about Clean Code, TDD, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture]]
